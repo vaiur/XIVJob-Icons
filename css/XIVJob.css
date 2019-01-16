@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'XIVJob';
+    src: url('../fonts/XIVJob.eot');
+    src: url('../fonts/XIVJob.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/XIVJob.woff') format('woff'),
+         url('../fonts/XIVJob.ttf') format('truetype'),
+         url('../fonts/XIVJob.svg#Glyphter') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class*='icon-']:before{
+	display: inline-block;
+   font-family: 'XIVJob';
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale
+}
+
+.icon-ACN:before{content:'\0041';}
+.icon-ALC:before{content:'\0042';}
+.icon-ARC:before{content:'\0043';}
+.icon-ARM:before{content:'\0044';}
+.icon-AST:before{content:'\0045';}
+.icon-BLM:before{content:'\0046';}
+.icon-BLU:before{content:'\0047';}
+.icon-BRD:before{content:'\0048';}
+.icon-BSM:before{content:'\0049';}
+.icon-BTN:before{content:'\004a';}
+.icon-CNJ:before{content:'\004b';}
+.icon-CRP:before{content:'\004c';}
+.icon-CUL:before{content:'\004d';}
+.icon-DRG:before{content:'\004e';}
+.icon-DRK:before{content:'\004f';}
+.icon-FSH:before{content:'\0050';}
+.icon-GLA:before{content:'\0051';}
+.icon-GSM:before{content:'\0052';}
+.icon-LNC:before{content:'\0053';}
+.icon-LTW:before{content:'\0054';}
+.icon-MCH:before{content:'\0055';}
+.icon-MIN:before{content:'\0056';}
+.icon-MNK:before{content:'\0057';}
+.icon-MRD:before{content:'\0058';}
+.icon-NIN:before{content:'\0059';}
+.icon-PGL:before{content:'\005a';}
+.icon-PLD:before{content:'\0061';}
+.icon-RDM:before{content:'\0062';}
+.icon-ROG:before{content:'\0063';}
+.icon-SAM:before{content:'\0064';}
+.icon-SCH:before{content:'\0065';}
+.icon-SMN:before{content:'\0066';}
+.icon-THM:before{content:'\0067';}
+.icon-WAR:before{content:'\0068';}
+.icon-WHM:before{content:'\0069';}
+.icon-WVR:before{content:'\006a';}
